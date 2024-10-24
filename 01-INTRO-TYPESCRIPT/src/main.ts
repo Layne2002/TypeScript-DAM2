@@ -1,5 +1,5 @@
 import './style.css'
-import './topics/3.7-desestArrays.ts';
+import './topics/06-desest-funciones.ts';
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   Hola Mundo!
 `
